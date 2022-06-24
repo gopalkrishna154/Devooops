@@ -58,3 +58,16 @@ git push -u origin
 git push --set-upstream origin master
 git push -u origin
 git push --set-upstream origin master
+ll
+git branch
+git branch branch1
+git branch
+git checkout branch1
+git branch'
+
+git branch
+git branch
+git checkout branch1
+ll
+git checkout master
+ll
